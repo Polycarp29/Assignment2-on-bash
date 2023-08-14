@@ -8,3 +8,4 @@ echo "First Number is Greater than Second Number."
 else
 echo "Second Number is Greater than First Number."
 fi
+## Always coment on your code otherwise nice try 
